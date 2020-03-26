@@ -1,6 +1,6 @@
 version: '2'
-services:
 
+services:
   boinc:
     image: boinc/client
     container_name: boinc
